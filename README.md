@@ -18,4 +18,4 @@ If you need to contact me for any reason:
 You can also contact me on social media:
 - Twitter: [@TobezDev](https://twitter.com/@TobezDev)
 - ~~Discord: [@tobezdev](https://discord.com/users/xxxxxxxxxx)~~
-- Audius: [@Tobez](https://audius.co/tobez]
+- Audius: [@Tobez](https://audius.co/tobez)
