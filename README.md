@@ -1,4 +1,5 @@
 # Terminal
+#### PREFACE: This project is my own interpretation of a CLI-Terminal project made on Replit by [Cluefixx](https://replit.com/@Cluefixx)
 
 ## Introduction
 A fun CLI project.
