@@ -13,10 +13,9 @@ See the **LICENCE** file in the root directory for full terms.
 
 ## Contact
 If you need to contact me for any reason:
-- ✉️ [contact@tobez.dev](mailto:contact@tobez.dev)
-- 🌐 [https://tobez.dev](https://tobez.dev)
+- ✉️ [contact@tobez.dev](mailto:admin@tobezdev.com)
+- 🌐 [https://tobez.dev](https://tobezdev.com/)
 
 You can also contact me on social media:
-- Twitter: [@TobezDev](https://twitter.com/@TobezDev)
-- ~~Discord: [@tobezdev](https://discord.com/users/xxxxxxxxxx)~~
-- Audius: [@Tobez](https://audius.co/tobez)
+- Twitter: [@TobezDev](https://twitter.com/@tobezdev)
+- Discord: [@tobezdev](https://discord.com/users/969254887621820526)
